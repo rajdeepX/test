@@ -1,5 +1,0 @@
-{{#user}}
-Name: Rajdeep Dutta
-Skills: HTML, CSS, JS, React.js
-Email: rajdeepdutta70@gmail.com
-{{/user}}
